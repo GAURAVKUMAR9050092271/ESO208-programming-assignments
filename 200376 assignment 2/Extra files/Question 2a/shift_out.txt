@@ -1,0 +1,6 @@
+The intermediate eigen value of given matrix is: 8.1461
+The corresponding eigen vector is: 
+0.9356
+-0.3085
+0.1718
+Iterations: 6

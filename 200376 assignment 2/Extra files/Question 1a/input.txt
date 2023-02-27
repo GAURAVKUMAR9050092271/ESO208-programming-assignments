@@ -1,0 +1,3 @@
+=>INPUT NO OF UNKNOWN VARIABLES => 3
+=>than select the required method
+=>[4 2 0 10;2 4 1 11.5;0 1 5 5]

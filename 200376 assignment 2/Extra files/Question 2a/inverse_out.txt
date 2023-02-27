@@ -1,0 +1,6 @@
+The minimmum eigen value of given matrix is: 3.0749
+The corresponding eigen vector is: 
+0.2482
+0.9205
+0.3017
+Iterations: 12
